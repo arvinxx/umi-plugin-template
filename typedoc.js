@@ -34,16 +34,14 @@ module.exports = {
   // stripInternal: true,
 
   readme: 'document/API.md',
-  // plugin: 'none',
-  plugin: [
-    // 'typedoc-plugin-external-module-map',
-    'typedoc-plugin-markdown',
-  ],
-  // 'external-modulemap': './types/([\\w\\-_]+)/',
+  entryDocument: 'index.md',
+  plugin: ['typedoc-plugin-markdown'],
   hideBreadcrumbs: true,
   namedAnchors: true,
   hideProjectName: true,
   publicPath: '/api/',
   // 生成文件名用 - 隔开
   filenameSeparator: '-',
+  // 不生成 navigation 的索引
+  navigationEnabled: true,
 };
