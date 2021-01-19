@@ -104,7 +104,7 @@
     "test-umi-plugin": "^0.1.0",
     "ts-jest": "^26.4.4",
     "typedoc": "^0.20.12",
-    "typedoc-plugin-markdown": "^3.3.0",
+    "typedoc-plugin-markdown": "^3.4.0",
     "umi": "^3.3.6"
   },
   "files": [
