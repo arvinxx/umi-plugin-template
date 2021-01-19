@@ -20144,10 +20144,10 @@ typedoc-default-themes@0.12.0:
   resolved "https://registry.npm.taobao.org/typedoc-default-themes/download/typedoc-default-themes-0.12.0.tgz#42451948e55a148c1350eb2aa68829be5c2b06b3"
   integrity sha1-QkUZSOVaFIwTUOsqpogpvlwrBrM=
 
-typedoc-plugin-markdown@^3.3.0:
-  version "3.3.0"
-  resolved "https://registry.npm.taobao.org/typedoc-plugin-markdown/download/typedoc-plugin-markdown-3.3.0.tgz#15b05028a9bfc5c032ad33b025be33029e91b837"
-  integrity sha1-FbBQKKm/xcAyrTOwJb4zAp6RuDc=
+typedoc-plugin-markdown@^3.4.0:
+  version "3.4.0"
+  resolved "https://registry.yarnpkg.com/typedoc-plugin-markdown/-/typedoc-plugin-markdown-3.4.0.tgz#5634f2aa74053f514b882f36782769c157c3a9aa"
+  integrity sha512-aHLWI4jeSpSDgMbRByinRp+b2u4kHXySiccZc7lKSExH4Md44ds21oH0g+xZ5lBv9dhZdTz7mhTCrbAm5Nh24w==
   dependencies:
     handlebars "^4.7.6"
 
