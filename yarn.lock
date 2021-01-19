@@ -3324,11 +3324,6 @@
   resolved "https://registry.npm.taobao.org/@types/debug/download/@types/debug-4.1.5.tgz?cache=0&sync_timestamp=1605053756216&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Fdebug%2Fdownload%2F%40types%2Fdebug-4.1.5.tgz#b14efa8852b7768d898906613c23f688713e02cd"
   integrity sha1-sU76iFK3do2JiQZhPCP2iHE+As0=
 
-"@types/ejs@3.0.4":
-  version "3.0.4"
-  resolved "https://registry.npm.taobao.org/@types/ejs/download/@types/ejs-3.0.4.tgz?cache=0&sync_timestamp=1605053947274&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Fejs%2Fdownload%2F%40types%2Fejs-3.0.4.tgz#8851fcdedb96e410fbb24f83b8be6763ef9afa77"
-  integrity sha1-iFH83tuW5BD7sk+DuL5nY++a+nc=
-
 "@types/ejs@3.0.5":
   version "3.0.5"
   resolved "https://registry.npm.taobao.org/@types/ejs/download/@types/ejs-3.0.5.tgz?cache=0&sync_timestamp=1605053124042&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Fejs%2Fdownload%2F%40types%2Fejs-3.0.5.tgz#95a3a1c3d9603eba80fe67ff56da1ba275ef2eda"
@@ -3509,7 +3504,7 @@
     "@types/marked" "*"
     chalk "^2.4.1"
 
-"@types/marked@*", "@types/marked@^1.1.0", "@types/marked@^1.2.1":
+"@types/marked@*", "@types/marked@^1.2.1":
   version "1.2.1"
   resolved "https://registry.npm.taobao.org/@types/marked/download/@types/marked-1.2.1.tgz#9864ecc10d0edb72e7be4e94acb5fcc607c15eed"
   integrity sha1-mGTswQ0O23Lnvk6UrLX8xgfBXu0=
@@ -3603,11 +3598,6 @@
   version "5.0.3"
   resolved "https://registry.npm.taobao.org/@types/parse5/download/@types/parse5-5.0.3.tgz?cache=0&sync_timestamp=1605054896729&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Fparse5%2Fdownload%2F%40types%2Fparse5-5.0.3.tgz#e7b5aebbac150f8b5fdd4a46e7f0bd8e65e19109"
   integrity sha1-57Wuu6wVD4tf3UpG5/C9jmXhkQk=
-
-"@types/prettier@2.1.0":
-  version "2.1.0"
-  resolved "https://registry.npm.taobao.org/@types/prettier/download/@types/prettier-2.1.0.tgz?cache=0&sync_timestamp=1608765620321&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40types%2Fprettier%2Fdownload%2F%40types%2Fprettier-2.1.0.tgz#5f96562c1075ee715a5b138f0b7f591c1f40f6b8"
-  integrity sha1-X5ZWLBB17nFaWxOPC39ZHB9A9rg=
 
 "@types/prettier@2.1.6", "@types/prettier@^2.1.5":
   version "2.1.6"
@@ -4002,13 +3992,6 @@
     "@typescript-eslint/types" "4.11.0"
     eslint-visitor-keys "^2.0.0"
 
-"@umijs/ast@3.3.3":
-  version "3.3.3"
-  resolved "https://registry.npm.taobao.org/@umijs/ast/download/@umijs/ast-3.3.3.tgz#5c70ce8ce4a2d2020dd7f65ead42dbd5b02b3aee"
-  integrity sha1-XHDOjOSi0gIN1/ZerULb1bArOu4=
-  dependencies:
-    "@umijs/utils" "3.3.3"
-
 "@umijs/ast@3.3.6":
   version "3.3.6"
   resolved "https://registry.npm.taobao.org/@umijs/ast/download/@umijs/ast-3.3.6.tgz?cache=0&sync_timestamp=1610967702979&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40umijs%2Fast%2Fdownload%2F%40umijs%2Fast-3.3.6.tgz#bd5bfbc94e0ad2bdce2b8cc25913f2cebb867798"
@@ -4056,7 +4039,7 @@
     "@umijs/utils" "3.3.6"
     core-js "3.6.5"
 
-"@umijs/babel-preset-umi@3.3.3", "@umijs/babel-preset-umi@3.x":
+"@umijs/babel-preset-umi@3.3.3":
   version "3.3.3"
   resolved "https://registry.npm.taobao.org/@umijs/babel-preset-umi/download/@umijs/babel-preset-umi-3.3.3.tgz#7c3672578dcbe7e06cdef0fad8cc0bae75194c68"
   integrity sha1-fDZyV43L5+Bs3vD62MwLrnUZTGg=
@@ -4088,7 +4071,7 @@
     babel-plugin-transform-react-remove-prop-types "0.4.24"
     babel-plugin-transform-typescript-metadata "0.3.1"
 
-"@umijs/babel-preset-umi@3.3.6":
+"@umijs/babel-preset-umi@3.3.6", "@umijs/babel-preset-umi@3.x":
   version "3.3.6"
   resolved "https://registry.npm.taobao.org/@umijs/babel-preset-umi/download/@umijs/babel-preset-umi-3.3.6.tgz?cache=0&sync_timestamp=1610967454738&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40umijs%2Fbabel-preset-umi%2Fdownload%2F%40umijs%2Fbabel-preset-umi-3.3.6.tgz#073a708051c637d74267f290961e3787e95b15ef"
   integrity sha1-BzpwgFHGN9dCZ/KQlh43h+lbFe8=
@@ -4174,33 +4157,6 @@
     webpack-manifest-plugin "2.2.0"
     webpack-sources "^1.1.0"
     webpackbar "5.0.0-3"
-
-"@umijs/core@3.3.3":
-  version "3.3.3"
-  resolved "https://registry.npm.taobao.org/@umijs/core/download/@umijs/core-3.3.3.tgz#9946de9c9dbe6c40efefb1a66610ed49089c5409"
-  integrity sha1-mUbenJ2+bEDv77GmZhDtSQicVAk=
-  dependencies:
-    "@babel/core" "7.12.3"
-    "@babel/register" "7.12.1"
-    "@hapi/joi" "16.1.8"
-    "@types/ejs" "3.0.4"
-    "@types/hapi__joi" "16.0.12"
-    "@types/marked" "^1.1.0"
-    "@types/marked-terminal" "^3.1.1"
-    "@types/prettier" "2.1.0"
-    "@types/tapable" "1.0.6"
-    "@umijs/ast" "3.3.3"
-    "@umijs/babel-preset-umi" "3.3.3"
-    "@umijs/error-code-map" "^1.0.1"
-    "@umijs/utils" "3.3.3"
-    dotenv "8.2.0"
-    ejs "3.1.5"
-    marked "1.1.1"
-    marked-terminal "4.1.0"
-    os-locale "5.0.0"
-    prettier "2.1.1"
-    set-value "3.0.2"
-    tapable "1.1.3"
 
 "@umijs/core@3.3.6":
   version "3.3.6"
@@ -4308,10 +4264,10 @@
     umi-webpack-bundle-analyzer "3.6.0"
     zlib "1.0.5"
 
-"@umijs/preset-dumi@^1.1.0":
-  version "1.1.0"
-  resolved "https://registry.npm.taobao.org/@umijs/preset-dumi/download/@umijs/preset-dumi-1.1.0.tgz#f5aa2e14115f5c96e8a4049a8139e9810d9f03b6"
-  integrity sha1-9aouFBFfXJbopASagTnpgQ2fA7Y=
+"@umijs/preset-dumi@^1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@umijs/preset-dumi/-/preset-dumi-1.1.2.tgz#32d331863d16fcd9acb5338390b0bfdd2054af31"
+  integrity sha512-1s0mZpeka5WQkunq05+23vYwUkeinJ4cgAINvwqZCizxKxbyjnuoaABqNa9Kp5YHTehBsWKR3uQ5O7oW87yRBQ==
   dependencies:
     "@babel/core" "^7.7.2"
     "@babel/generator" "^7.7.2"
@@ -4326,8 +4282,8 @@
     "@umijs/utils" "^3.2.28"
     copy-text-to-clipboard "^2.2.0"
     deepmerge "^4.2.2"
-    dumi-assets-types "1.0.0-beta.5"
-    dumi-theme-default "1.0.0"
+    dumi-assets-types "1.0.0"
+    dumi-theme-default "1.0.2"
     enhanced-resolve "^4.1.1"
     github-slugger "^1.3.0"
     hast-util-has-property "^1.0.4"
@@ -4375,7 +4331,7 @@
     "@umijs/runtime" "3.3.6"
     react-router-config "5.1.1"
 
-"@umijs/runtime@3.3.6":
+"@umijs/runtime@3.3.6", "@umijs/runtime@^3.2.14":
   version "3.3.6"
   resolved "https://registry.npm.taobao.org/@umijs/runtime/download/@umijs/runtime-3.3.6.tgz?cache=0&sync_timestamp=1610967704750&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40umijs%2Fruntime%2Fdownload%2F%40umijs%2Fruntime-3.3.6.tgz#ff5d7d18600813f331cebb8541355b12961cd29b"
   integrity sha1-/119GGAIE/MxzruFQTVbEpYc0ps=
@@ -4386,37 +4342,6 @@
     react-router "5.2.0"
     react-router-dom "5.2.0"
     use-subscription "1.4.1"
-
-"@umijs/runtime@^3.2.14":
-  version "3.3.3"
-  resolved "https://registry.npm.taobao.org/@umijs/runtime/download/@umijs/runtime-3.3.3.tgz#f2248a52c274effeaaa6fb635d021f8733ec090f"
-  integrity sha1-8iSKUsJ07/6qpvtjXQIfhzPsCQ8=
-  dependencies:
-    "@types/react-router" "5.1.8"
-    "@types/react-router-dom" "5.1.5"
-    history-with-query "4.10.4"
-    react-router "5.2.0"
-    react-router-dom "5.2.0"
-    use-subscription "1.4.1"
-
-"@umijs/server@3.3.3":
-  version "3.3.3"
-  resolved "https://registry.npm.taobao.org/@umijs/server/download/@umijs/server-3.3.3.tgz#d1cb9a4d65562e807bad753c2cbecf4983495141"
-  integrity sha1-0cuaTWVWLoB7rXU8LL7PSYNJUUE=
-  dependencies:
-    "@types/compression" "1.7.0"
-    "@types/express" "4.17.7"
-    "@types/node" "14.0.23"
-    "@types/sockjs" "0.3.32"
-    "@types/spdy" "3.4.4"
-    "@umijs/utils" "3.3.3"
-    compression "1.7.4"
-    express "4.17.1"
-    http-proxy-middleware "1.0.6"
-    immer "7.0.5"
-    portfinder "1.0.26"
-    sockjs "0.3.21"
-    spdy "4.0.2"
 
 "@umijs/server@3.3.6":
   version "3.3.6"
@@ -4460,7 +4385,7 @@
     regenerator-runtime "^0.13.7"
     whatwg-fetch "^3.4.1"
 
-"@umijs/types@3.3.6":
+"@umijs/types@3.3.6", "@umijs/types@3.x":
   version "3.3.6"
   resolved "https://registry.npm.taobao.org/@umijs/types/download/@umijs/types-3.3.6.tgz#a10e7e6bdd3cdf6f0f2d00f31a0578fe60fa67bc"
   integrity sha1-oQ5+a908328PLQDzGgV4/mD6Z7w=
@@ -4475,22 +4400,7 @@
     "@umijs/utils" "3.3.6"
     webpack-chain "6.5.1"
 
-"@umijs/types@3.x":
-  version "3.3.3"
-  resolved "https://registry.npm.taobao.org/@umijs/types/download/@umijs/types-3.3.3.tgz#02750ea1fb344a3ef8af73e9eaf6a45b30ac7a75"
-  integrity sha1-AnUOofs0Sj74r3Pp6vakWzCsenU=
-  dependencies:
-    "@types/cheerio" "0.22.21"
-    "@types/express" "4.17.7"
-    "@types/webpack" "4.41.21"
-    "@types/webpack-bundle-analyzer" "3.8.0"
-    "@umijs/babel-preset-umi" "3.3.3"
-    "@umijs/core" "3.3.3"
-    "@umijs/server" "3.3.3"
-    "@umijs/utils" "3.3.3"
-    webpack-chain "6.5.1"
-
-"@umijs/utils@3.3.3", "@umijs/utils@^3.2.28":
+"@umijs/utils@3.3.3":
   version "3.3.3"
   resolved "https://registry.npm.taobao.org/@umijs/utils/download/@umijs/utils-3.3.3.tgz#4bc2c539e29e4e34d866b7380b7b1870211b8230"
   integrity sha1-S8LFOeKeTjTYZrc4C3sYcCEbgjA=
@@ -4539,7 +4449,7 @@
     yargs "15.4.1"
     yargs-parser "18.1.3"
 
-"@umijs/utils@3.3.6":
+"@umijs/utils@3.3.6", "@umijs/utils@^3.2.28":
   version "3.3.6"
   resolved "https://registry.npm.taobao.org/@umijs/utils/download/@umijs/utils-3.3.6.tgz?cache=0&sync_timestamp=1610967458417&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2F%40umijs%2Futils%2Fdownload%2F%40umijs%2Futils-3.3.6.tgz#a4cb1f1e95c040cf92aff8cb3920385377fa0250"
   integrity sha1-pMsfHpXAQM+Sr/jLOSA4U3f6AlA=
@@ -8100,15 +8010,15 @@ dotenv@^5.0.1:
   resolved "https://registry.npm.taobao.org/dotenv/download/dotenv-5.0.1.tgz#a5317459bd3d79ab88cff6e44057a6a3fbb1fcef"
   integrity sha1-pTF0Wb09eauIz/bkQFemo/ux/O8=
 
-dumi-assets-types@1.0.0-beta.5:
-  version "1.0.0-beta.5"
-  resolved "https://registry.npm.taobao.org/dumi-assets-types/download/dumi-assets-types-1.0.0-beta.5.tgz?cache=0&sync_timestamp=1607424310615&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fdumi-assets-types%2Fdownload%2Fdumi-assets-types-1.0.0-beta.5.tgz#508c77f08299bb27f4698a7e9cdafea1595e6840"
-  integrity sha1-UIx38IKZuyf0aYp+nNr+oVleaEA=
-
-dumi-theme-default@1.0.0:
+dumi-assets-types@1.0.0:
   version "1.0.0"
-  resolved "https://registry.npm.taobao.org/dumi-theme-default/download/dumi-theme-default-1.0.0.tgz#b1331131e2c468c8ad96aa97658e4da19967e3ba"
-  integrity sha1-sTMRMeLEaMitlqqXZY5NoZln47o=
+  resolved "https://registry.yarnpkg.com/dumi-assets-types/-/dumi-assets-types-1.0.0.tgz#d5368cb11045b203bf1ef1080e553b2287a2ec81"
+  integrity sha512-7nhSeWM15vybbUAMPLZsdls2jKoHB2UU4P1RM6kLPucuS8eC/HSmufquFqTTYtX4oIDLHGtil/dVtMreNGwhdA==
+
+dumi-theme-default@1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/dumi-theme-default/-/dumi-theme-default-1.0.2.tgz#03b8734135c9740aa8b7e72b5799cbcbef12900d"
+  integrity sha512-nI413eZDTYmTc2hyFgguySSgf34ukRUlqxLM/mf8rapNKJdneMTv4nhgcrjyYyOhmefMG50rdiTtJzqQn2+tEA==
   dependencies:
     prism-react-renderer "^1.1.1"
     prismjs "^1.21.0"
@@ -13366,11 +13276,6 @@ marked-terminal@4.1.0, marked-terminal@^4.0.0:
     node-emoji "^1.10.0"
     supports-hyperlinks "^2.1.0"
 
-marked@1.1.1:
-  version "1.1.1"
-  resolved "https://registry.npm.taobao.org/marked/download/marked-1.1.1.tgz#e5d61b69842210d5df57b05856e0c91572703e6a"
-  integrity sha1-5dYbaYQiENXfV7BYVuDJFXJwPmo=
-
 marked@1.2.7, marked@^1.0.0, marked@^1.2.5:
   version "1.2.7"
   resolved "https://registry.npm.taobao.org/marked/download/marked-1.2.7.tgz#6e14b595581d2319cdcf033a24caaf41455a01fb"
@@ -16381,11 +16286,6 @@ prepend-http@^2.0.0:
   version "2.0.0"
   resolved "https://registry.npm.taobao.org/prepend-http/download/prepend-http-2.0.0.tgz#e92434bfa5ea8c19f41cdfd401d741a3c819d897"
   integrity sha1-6SQ0v6XqjBn0HN/UAddBo8gZ2Jc=
-
-prettier@2.1.1:
-  version "2.1.1"
-  resolved "https://registry.npm.taobao.org/prettier/download/prettier-2.1.1.tgz?cache=0&sync_timestamp=1606521202472&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fprettier%2Fdownload%2Fprettier-2.1.1.tgz#d9485dd5e499daa6cb547023b87a6cf51bee37d6"
-  integrity sha1-2Uhd1eSZ2qbLVHAjuHps9RvuN9Y=
 
 prettier@2.2.1, prettier@^2.2.0, prettier@^2.2.1:
   version "2.2.1"
