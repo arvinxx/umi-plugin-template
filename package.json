@@ -74,7 +74,7 @@
     "@types/node": "^13.7.7",
     "@umijs/fabric": "^2.4.8",
     "@umijs/preset-dumi": "^1.1.2",
-    "@umijs/test": "^3.0.10",
+    "@umijs/test": "^3.3.6",
     "@umijs/test-utils": "^1.0.0",
     "antd": "^4.10.0",
     "body-parser": "^1.18.2",
