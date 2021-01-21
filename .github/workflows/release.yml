@@ -31,6 +31,9 @@ jobs:
       - name: lint
         run: yarn lint && yarn tsc
 
+      - name: test
+        run: yarn test
+
       - name: release
         run: yarn release
         env:
