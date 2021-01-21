@@ -1,5 +1,27 @@
 # umi-chrome-extensions-template 更新日志
 
+# [1.1.0](https://github.com/arvinxx/umi-plugin-develop-template/compare/v1.0.0...v1.1.0) (2021-01-21)
+
+
+### ✅ Tests | 测试
+
+* **(杂项)**: 补充测试用例 ([56fbb6d](https://github.com/arvinxx/umi-plugin-develop-template/commit/56fbb6d))
+
+
+### ✨ Features | 新特性
+
+* **(ci)**: 添加完整 ci ([c65828b](https://github.com/arvinxx/umi-plugin-develop-template/commit/c65828b))
+
+
+### 🐛 Bug Fixes | 修复
+
+* **(ci)**: 补充发布 CI 流程 ([f6732af](https://github.com/arvinxx/umi-plugin-develop-template/commit/f6732af))
+
+
+### 📝 Documentation | 文档
+
+* **(杂项)**: 更新文档 ([2063afd](https://github.com/arvinxx/umi-plugin-develop-template/commit/2063afd))
+
 # 1.0.0 (2021-01-19)
 
 
