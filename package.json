@@ -111,6 +111,6 @@
     "lib"
   ],
   "dependencies": {
-    "fs-extra": "^9.0.1"
+    "fs-extra": "^10.0.1"
   }
 }
