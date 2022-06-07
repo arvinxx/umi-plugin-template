@@ -93,7 +93,7 @@
     "lerna": "^3.20.2",
     "lint-staged": "^10.0.8",
     "npm-run-all": "^4.1.5",
-    "pify": "^5.0.0",
+    "pify": "^6.0.0",
     "prettier": "^2.2.1",
     "puppeteer": "^1.20.0",
     "query-string": "^6.13.8",
