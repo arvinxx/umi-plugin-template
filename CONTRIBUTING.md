@@ -6,7 +6,7 @@ Install dev deps after git clone the repo.
 
 ```bash
 # npm is not allowed.
-$ yarn
+$ pnpm i
 ```
 
 ## Build
@@ -14,10 +14,10 @@ $ yarn
 Transform with babel and rollup.
 
 ```bash
-$ yarn build
+$ pnpm run build
 
 # Build and monitor file changes
-$ yarn build --watch
+$ pnpm run dev
 
 ```
 
@@ -25,7 +25,7 @@ $ yarn build --watch
 
 ```bash
 # This Step must only be executed in Build
-$ yarn dev
+$ pnpm dev
 ```
 
 ## Debug
@@ -35,5 +35,5 @@ TODO
 ## Test
 
 ```bash
-$ yarn test
+$ pnpm test
 ```

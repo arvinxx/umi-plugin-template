@@ -25,7 +25,7 @@ export default defineConfig({
     null,
     {
       title: 'GitHub',
-      path: 'https://github.com/arvinxx/umi-plugin-develop-template',
+      path: 'https://github.com/arvinxx/umi-plugin-template',
     },
   ],
   dynamicImport: {

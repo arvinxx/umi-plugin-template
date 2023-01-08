@@ -1,4 +1,4 @@
-# umi plugin develop template
+# umi plugin template
 
 ![][version-url] [![semantic-release][semantic-release]][semantic-release-repo] ![][license-url]
 
@@ -19,10 +19,10 @@
 
 <!-- Github CI -->
 
-[test-ci]: https://github.com/arvinxx/umi-plugin-develop-template/workflows/Test%20CI/badge.svg
-[release-ci]: https://github.com/arvinxx/umi-plugin-develop-template/workflows/Release%20CI/badge.svg
-[test-ci-url]: https://github.com/arvinxx/umi-plugin-develop-template/actions?query=workflow%3A%22Test+CI%22
-[deploy-ci-url]: https://github.com/arvinxx/umi-plugin-develop-template/actions?query=workflow%3A%22Release+CI%22
+[test-ci]: https://github.com/arvinxx/umi-plugin-template/workflows/Test%20CI/badge.svg
+[release-ci]: https://github.com/arvinxx/umi-plugin-template/workflows/Release%20CI/badge.svg
+[test-ci-url]: https://github.com/arvinxx/umi-plugin-template/actions?query=workflow%3A%22Test+CI%22
+[deploy-ci-url]: https://github.com/arvinxx/umi-plugin-template/actions?query=workflow%3A%22Release+CI%22
 
 用于开发 umi 插件的模板
 
@@ -35,13 +35,13 @@ npm i
 或
 
 ```bash
-yarn
+pnpm i
 ```
 
 ## 开发
 
 ```bash
-$ yarn start
+$ npm start
 ```
 
 ## License
